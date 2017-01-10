@@ -1,0 +1,28 @@
+{
+  "name": "dynamodb-type-formatter",
+  "version": "1.0.0",
+  "description": "Javascript Type formatter for AWS SDK DynamoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignicaodigitalbr/dynamodb-type-formatter.git"
+  },
+  "keywords": [
+    "dynamodb",
+    "type",
+    "formatter"
+  ],
+  "author": "Thomas Alvarenga (https://github.com/alvarengathomas)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ignicaodigitalbr/dynamodb-type-formatter/issues"
+  },
+  "homepage": "https://github.com/ignicaodigitalbr/dynamodb-type-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jest": "^18.1.0"
+  }
+}

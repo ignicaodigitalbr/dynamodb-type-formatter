@@ -1,2 +1,2 @@
-# dynamodb-type-formatter
-Javascript Type formatter for AWS SDK DynamoDB
+# DynamoDB Type Formatter
+Javascript type formatter for [AWS SDK DynamoDB](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/DynamoDB.html)
